@@ -1,7 +1,7 @@
 # Refactor-HW
 
 Installation
-File can be downloaded as a zipped folder from Google Drive.
+File can be downloaded as a zipped folder.
 The HTML file can be found in this “homework refactor” folder. All images and css files can be found in the “assets” folder.
 
 Usage
