@@ -8,7 +8,7 @@ Usage
 Website is an example of utilizing CSS and HTML to format a business website. Personal work and changes is commented within the HTML and CSS files.
 
 Credits
-Original code developed by Tim Dusterdieck and Joshua Dodd in affliction with the Georgia Tech bootcamp program as a practice demo.
+Original code developed by Tim Dusterdieck and Joshua Dodd in affiliation with the Georgia Tech bootcamp program as a practice demo.
 
 License
 MIT License
